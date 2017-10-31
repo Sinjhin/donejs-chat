@@ -1,0 +1,27 @@
+{
+  "generator-donejs": {
+    "promptValues": {
+      "authorName": "",
+      "authorEmail": "",
+      "authorUrl": ""
+    }
+  },
+  "donejs-cordova": {
+    "name": "donejs chat",
+    "id": "com.donejs.donejschat",
+    "platforms": [
+      "ios"
+    ],
+    "baseURL": ""
+  },
+  "donejs-electron": {
+    "main": "electron-main.js",
+    "platforms": [
+      "darwin"
+    ],
+    "archs": [
+      "x64"
+    ],
+    "baseURL": ""
+  }
+}
